@@ -14,7 +14,7 @@ Slides from the presentation are available in the `neural_ode_solvers_presentati
 The `neural_ode_solvers.ipynb` file contains solved exercises with descriptions, instructions, and unit tests. You can find four models on the following topics:
 
 1. Linear system of two ODEs - stationary dynamic function.
-
+![alt text](linear_system_of_odes.gif)
 
 2. 1D ODE - non-stationary dynamic function.
 
